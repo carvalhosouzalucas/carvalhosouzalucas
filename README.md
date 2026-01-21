@@ -1,114 +1,135 @@
-# 👋 Olá, eu sou o Lucas!
+<div align="center">
+
+# 🕶️ Lucas Carvalho
+### Desenvolvedor Front End • Interfaces Web • UX
+
+<sub><i>Menos ruído. Mais clareza. Código com propósito.</i></sub>
+
+</div>
+
+---
+
+<div style="border-left: 3px solid #444; padding-left: 12px; margin-bottom: 20px;">
 
 💻 Desenvolvedor Front End em formação, apaixonado por criar interfaces limpas, responsivas e funcionais, com foco na experiência do usuário.
 
-Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front End Júnior**, com base técnica em **HTML5, CSS3 e JavaScript (ES6+)**. Também possuo conhecimentos em **JSON, Node.js e lógica de programação**, e estou constantemente estudando para evoluir minhas habilidades.
+Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front End Júnior**, com base técnica em **HTML5, CSS3 e JavaScript (ES6+)**. Também possuo conhecimentos em **JSON, Node.js e lógica de programação**, mantendo evolução constante por meio de estudos e projetos práticos.
+
+</div>
 
 ---
 
-## 🚀 Tecnologias
+## 🧩 Tecnologias
 
-**Front End**
-- HTML5
-- CSS3 (Flexbox, Grid, responsividade)
-- JavaScript (ES6+)
+```txt
+Front End
+• HTML5
+• CSS3 (Flexbox • Grid • Responsividade)
+• JavaScript (ES6+)
 
-**Back End & Dados**
-- Node.js (básico)
-- JSON
+Back End & Dados
+• Node.js (básico)
+• JSON
 
-**Ferramentas**
-- Git & GitHub
-- VS Code
+Ferramentas
+• Git & GitHub
+• VS Code
+🗂️ Projetos em Destaque
+Abaixo estão alguns projetos que demonstram minhas habilidades em desenvolvimento web.
 
----
+▪ Carvalho Advocacia — Site Institucional
+Projeto institucional desenvolvido para um escritório de advocacia com atuação humanizada em Direito de Família, Sucessões e demais áreas jurídicas, comprometido com a proteção dos direitos fundamentais e com a solução ética e eficaz de conflitos.
 
-## 📌 Projetos em destaque
-
-Abaixo estão alguns projetos que demonstram minhas habilidades em desenvolvimento web:
-
----
-
-### 🔹 Site de Advocacia — Carvalho Advocacia
-
-Este repositório contém o código-fonte do site institucional do **Carvalho Advocacia**, um escritório de advocacia com atuação humanizada em Direito de Família, Sucessões e demais áreas jurídicas, comprometido com a proteção dos direitos fundamentais e com a solução ética e eficaz de conflitos.
-
-#### 🌐 Sobre o Projeto
-
-O site foi desenvolvido com foco em acessibilidade, clareza e responsividade, oferecendo uma experiência fluida e intuitiva tanto em desktops quanto em dispositivos móveis.
+🕯️ Sobre o Projeto
+Desenvolvido com foco em sobriedade visual, acessibilidade e responsividade, oferecendo uma experiência fluida tanto em desktops quanto em dispositivos móveis.
 
 Principais características:
 
-✔ Informações sobre o escritório e sua missão  
-✔ Especialidades jurídicas e áreas de atuação  
-✔ Apresentação da equipe profissional  
-✔ Formulário de contato e canais de atendimento  
-✔ Navegação suave e moderna  
+Informações institucionais e missão do escritório
 
-Este projeto demonstra habilidades práticas em **HTML5, CSS3 e JavaScript**, aplicando boas práticas de layout responsivo e design visual organizado.
+Especialidades jurídicas e áreas de atuação
 
-#### 🧱 Tecnologias Utilizadas
+Apresentação da equipe profissional
 
-✔ **HTML5** — Estrutura semântica e acessível  
-✔ **CSS3** — Layout responsivo com Flexbox e Grid  
-✔ **JavaScript (ES6+)** — Interações e manipulação de elementos  
-✔ **Design adaptável** — Suporte a múltiplas resoluções de tela
+Formulário de contato e canais de atendimento
 
-#### 🚀 Funcionalidades
+Navegação clara, suave e objetiva
 
-✔ Barra de navegação fixa e responsiva  
-✔ Conteúdo organizado por seções claras  
-✔ Efeitos visuais suaves  
-✔ Compatibilidade com navegadores modernos  
-✔ Layout mobile-first  
+O projeto evidencia domínio prático de HTML5, CSS3 e JavaScript, aplicando boas práticas de layout responsivo e organização visual.
 
----
+🧱 Tecnologias Utilizadas
+HTML5 — Estrutura semântica e acessível
 
-### 🔹 Instituto Nossa Casa — Site Institucional
+CSS3 — Layout responsivo com Flexbox e Grid
 
-Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa social sem fins lucrativos com foco em atendimento médico voluntário, assistência social, cursos e apoio comunitário em Vitória da Conquista-BA.
+JavaScript (ES6+) — Interações e manipulação de elementos
 
-O site foi desenvolvido com **HTML, CSS e JavaScript**, apresentando de forma clara a missão, valores, atividades, equipe, modalidades de atendimento e formas de colaboração com a comunidade.
+Design adaptável — Suporte a múltiplas resoluções
 
-#### 🧱 Tecnologias Utilizadas
+⚙️ Funcionalidades
+Barra de navegação fixa e responsiva
 
-✔ **HTML5** — Estrutura semântica e acessível  
-✔ **CSS3** — Layouts responsivos com Flexbox, Grid e media queries  
-✔ **JavaScript (ES6+)** — Interações e animações de navegação  
-✔ **Design responsivo** — Suporte a mobile, tablet e desktop  
-✔ **Efeitos visuais modernos**
+Conteúdo organizado por seções claras
 
-#### 🌍 Visão Geral
+Efeitos visuais sutis
 
-O site apresenta:
+Compatibilidade com navegadores modernos
 
-- Barra de navegação fixa e responsiva  
-- Seções: Home, Atuação, Sobre Nós, Modalidades, Atividades, Cursos, Colabore e Agendamentos  
-- Destaques de missão, visão e valores  
-- Citação bíblica com estilo visual personalizado  
-- Componentes visuais como gráficos, cards de equipe, formulários e galerias  
-- Estilo harmônico com gradientes e tipografia moderna
+Abordagem mobile-first
 
-#### 📸 Funcionalidades Principais
+▪ Instituto Nossa Casa — Site Institucional
+Projeto institucional desenvolvido para o Instituto Nossa Casa, uma iniciativa social sem fins lucrativos voltada ao atendimento médico voluntário, assistência social, cursos e apoio comunitário em Vitória da Conquista – BA.
 
-✔ Layout totalmente responsivo  
-✔ Scroll suave entre seções  
-✔ Efeitos hover e transições suaves  
-✔ Conteúdo organizado e acessível  
-✔ Componentes visuais interativos  
-✔ Suporte a diferentes resoluções de tela
+O site apresenta de forma clara a missão, valores, atividades, equipe e formas de colaboração com a comunidade.
 
----
+🧱 Tecnologias Utilizadas
+HTML5 — Estrutura semântica e acessível
 
-## 🎯 Objetivo
+CSS3 — Flexbox, Grid e media queries
 
-Estou em busca de oportunidades como **Desenvolvedor Front End Júnior** ou estágio em desenvolvimento web, onde eu possa crescer profissionalmente e contribuir com soluções reais em equipe.
+JavaScript (ES6+) — Interações e animações de navegação
 
----
+Design responsivo — Mobile, tablet e desktop
 
-## 📫 Contato
+Efeitos visuais modernos e discretos
 
-📧 lucacarvalho9425@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/lucas-carvalho-410028305/
+🌒 Visão Geral
+O projeto inclui:
 
-Obrigado por visitar meu GitHub! 🚀
+Barra de navegação fixa e responsiva
+
+Seções bem definidas (Home, Atuação, Sobre Nós, Modalidades, Atividades, Cursos, Colabore e Agendamentos)
+
+Destaques de missão, visão e valores
+
+Citação bíblica com identidade visual personalizada
+
+Componentes visuais como gráficos, cards de equipe, formulários e galerias
+
+Estilo harmônico com gradientes e tipografia moderna
+
+🎛️ Funcionalidades Principais
+Layout totalmente responsivo
+
+Scroll suave entre seções
+
+Efeitos hover e transições discretas
+
+Conteúdo organizado e acessível
+
+Componentes visuais interativos
+
+Suporte a múltiplas resoluções
+
+🎯 Objetivo
+Atuar como Desenvolvedor Front End Júnior ou estagiário em desenvolvimento web, contribuindo com soluções bem estruturadas, funcionais e visualmente consistentes, enquanto evoluo profissionalmente em ambiente colaborativo.
+
+📫 Contato
+📧 Email: lucacarvalho9425@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/lucas-carvalho-410028305/
+
+<div align="center">
+<sub><i>Clareza acima do excesso. Consistência acima do improviso.</i></sub>
+
+</div> ```
