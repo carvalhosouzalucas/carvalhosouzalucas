@@ -1,10 +1,21 @@
+<!-- BACKGROUND PRETO GLOBAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=150&section=header&text=Lucas%20Carvalho&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=Front%20End%20Developer&descAlignY=78&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1200&section=body" width="100%"/>
+</div>
+
+<!-- BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=Lucas%20Carvalho&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=Front%20End%20Developer&descAlignY=78&descSize=16" />
 </div>
 
 <br/>
 
+<!-- PAINEL PRINCIPAL -->
 <div align="center">
+
+<table>
+<tr>
+<td style="background-color:#111111; padding:25px; border-radius:10px;">
 
 # 👋 Olá, eu sou o Lucas!
 
@@ -12,12 +23,17 @@
 
 Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front End Júnior**, com base técnica em **HTML5, CSS3 e JavaScript (ES6+)**. Também possuo conhecimentos em **JSON, Node.js e lógica de programação**, e estou constantemente estudando para evoluir minhas habilidades.
 
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
 
+<!-- SEPARADOR -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4" width="80%"/>
 </div>
 
 <br/>
@@ -26,77 +42,73 @@ Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-0d0d0d?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
-</div>
-
-<br/>
-
+<!-- PROJETOS -->
 ## 📌 Projetos em destaque
 
-### 🔹 Site de Advocacia — Carvalho Advocacia
+<table>
+<tr>
+<td style="background-color:#141414; padding:20px; border-radius:10px;">
 
-<div align="left">
+### 🔹 Carvalho Advocacia — Site Institucional
 
-Este repositório contém o código-fonte do site institucional do **Carvalho Advocacia**, um escritório de advocacia com atuação humanizada em Direito de Família, Sucessões e demais áreas jurídicas, comprometido com a proteção dos direitos fundamentais e com a solução ética e eficaz de conflitos.
+Site institucional desenvolvido para um escritório de advocacia com atuação humanizada em Direito de Família, Sucessões e demais áreas jurídicas.
 
-</div>
-
-**Destaques visuais e técnicos:**
-- Layout sóbrio e profissional  
-- Design responsivo (desktop e mobile)  
-- Estrutura semântica  
+**Destaques:**
+- Design sóbrio e profissional  
+- Layout responsivo  
 - Navegação clara e fluida  
 
 **Tecnologias:**  
 `HTML5` `CSS3` `JavaScript`
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td style="background-color:#141414; padding:20px; border-radius:10px;">
 
 ### 🔹 Instituto Nossa Casa — Site Institucional
 
-<div align="left">
+Projeto institucional para uma iniciativa social sem fins lucrativos voltada ao atendimento médico voluntário e apoio comunitário.
 
-Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa social sem fins lucrativos com foco em atendimento médico voluntário, assistência social, cursos e apoio comunitário em Vitória da Conquista-BA.
-
-</div>
-
-**Destaques visuais e técnicos:**
-- Projeto robusto (milhares de linhas de código)  
-- Layout totalmente responsivo  
+**Destaques:**
+- Projeto robusto (milhares de linhas)  
 - Componentes visuais interativos  
 - Organização clara de conteúdo  
 
 **Tecnologias:**  
 `HTML5` `CSS3` `JavaScript`
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
+<!-- ESTATÍSTICAS -->
 ## 📊 Estatísticas
 
 <div align="center">
@@ -109,25 +121,31 @@ Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa so
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
-</div>
-
-<br/>
+<!-- OBJETIVO -->
+<table>
+<tr>
+<td style="background-color:#111111; padding:20px; border-radius:10px;">
 
 ## 🎯 Objetivo
 
 Estou em busca de oportunidades como **Desenvolvedor Front End Júnior** ou estágio em desenvolvimento web, onde eu possa crescer profissionalmente e contribuir com soluções reais em equipe.
 
----
+</td>
+</tr>
+</table>
 
-## 📫 Contato
+<br/>
+
+<!-- CONTATO -->
+<div align="center">
 
 📧 **Email:** lucacarvalho9425@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/lucas-carvalho-410028305/
 
+</div>
+
 <br/>
 
 <div align="center">
-  <sub><i>Clareza. Consistência. Código bem feito.</i></sub>
+  <sub style="color:#777;">Clareza visual. Código limpo. Estética funcional.</sub>
 </div>
