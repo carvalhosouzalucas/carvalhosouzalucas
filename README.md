@@ -130,6 +130,6 @@ Estou em busca de oportunidades como **Desenvolvedor Front End J√∫nior** ou est√
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carvalhosouzalucas&bg_color=0b0b0b&color=9e9e9e&line=4caf50&point=8bc34a&area=true&area_color=2e7d32&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carvalhosouzalucas&bg_color=111111&color=aaaaaa&line=6aa84f&point=93c47d&area=true&area_color=3c6e47&hide_border=true" />
 
 </div>
