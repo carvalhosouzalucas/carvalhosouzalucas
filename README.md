@@ -131,3 +131,9 @@ Estou em busca de oportunidades como **Desenvolvedor Front End Júnior** ou est�
 <div align="center">
   <sub><i>Clareza. Consistência. Código bem feito.</i></sub>
 </div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carvalhosouzalucas&theme=github_dark"/>
+
+</div>
