@@ -115,7 +115,7 @@ Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa so
 
 <br/>
 
-## 🎯 Objetivo
+## 🧐 Objetivo
 
 Estou em busca de oportunidades como **Desenvolvedor Front End Júnior** ou estágio em desenvolvimento web, onde eu possa crescer profissionalmente e contribuir com soluções reais em equipe.
 
