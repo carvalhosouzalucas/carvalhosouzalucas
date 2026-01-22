@@ -17,7 +17,7 @@ Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1" />
 </div>
 
 <br/>
@@ -26,27 +26,27 @@ Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-0d0d0d?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-0d0d0d?style=for-the-badge&logo=json&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1" />
 </div>
 
 <br/>
@@ -55,11 +55,7 @@ Atualmente estou me preparando para entrar no mercado como **Desenvolvedor Front
 
 ### 🔹 Site de Advocacia — Carvalho Advocacia
 
-<div align="left">
-
 Este repositório contém o código-fonte do site institucional do **Carvalho Advocacia**, um escritório de advocacia com atuação humanizada em Direito de Família, Sucessões e demais áreas jurídicas, comprometido com a proteção dos direitos fundamentais e com a solução ética e eficaz de conflitos.
-
-</div>
 
 **Destaques visuais e técnicos:**
 - Layout sóbrio e profissional  
@@ -74,11 +70,7 @@ Este repositório contém o código-fonte do site institucional do **Carvalho Ad
 
 ### 🔹 Instituto Nossa Casa — Site Institucional
 
-<div align="left">
-
 Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa social sem fins lucrativos com foco em atendimento médico voluntário, assistência social, cursos e apoio comunitário em Vitória da Conquista-BA.
-
-</div>
 
 **Destaques visuais e técnicos:**
 - Projeto robusto (milhares de linhas de código)  
@@ -92,7 +84,7 @@ Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa so
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1" />
 </div>
 
 <br/>
@@ -101,16 +93,24 @@ Projeto de site institucional para o **Instituto Nossa Casa**, uma iniciativa so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=carvalhosouzalucas&show_icons=true&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=carvalhosouzalucas&show_icons=true&theme=dark&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosouzalucas&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosouzalucas&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-9b6e4d30-2a0a-4f3b-bbb2-0f9e1c5f8f2c.gif" width="100%" height="1" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carvalhosouzalucas&bg_color=111111&color=aaaaaa&line=6aa84f&point=93c47d&area=true&area_color=3c6e47&hide_border=true" />
+
 </div>
 
 <br/>
@@ -125,10 +125,4 @@ Estou em busca de oportunidades como **Desenvolvedor Front End Júnior** ou est�
 
 📧 **Email:** lucacarvalho9425@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/lucas-carvalho-410028305/
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carvalhosouzalucas&bg_color=111111&color=aaaaaa&line=6aa84f&point=93c47d&area=true&area_color=3c6e47&hide_border=true" />
-
-</div>
+>
