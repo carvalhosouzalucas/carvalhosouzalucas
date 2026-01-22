@@ -126,7 +126,6 @@ Estou em busca de oportunidades como **Desenvolvedor Front End Júnior** ou est�
 📧 **Email:** lucacarvalho9425@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/lucas-carvalho-410028305/
 
-<br/>
 
 <div align="center">
 
